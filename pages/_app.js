@@ -1,7 +1,8 @@
 import "tailwindcss/tailwind.css";
 
-function MyApp({ Component, pageProps }) {
+// @ts-ignore
+function Index({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
 
-export default MyApp;
+export default Index;
