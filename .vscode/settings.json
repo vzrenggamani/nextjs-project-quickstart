@@ -6,6 +6,8 @@
   "editor.rulers": [100],
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
   "files.encoding": "utf8",
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
