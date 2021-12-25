@@ -1,7 +1,7 @@
 ---
 name: Feature Request & Changes
 about: Use this template for tracking new features or changes.
-title: 'feat: feature name'
+title: "feat: feature name"
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->

@@ -1,7 +1,7 @@
 ---
 name: Bugs Reports
 about: Use this template for reporting new bugs.
-title: 'bug: issues Title'
+title: "bug: issues Title"
 labels: status-needs-review, type-bug
 ---
 

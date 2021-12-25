@@ -4,9 +4,9 @@
     "module": "esnext",
     "jsx": "preserve",
     "lib": ["dom", "es2017"],
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "paths": {
-      "*": ["./*"],
+      "@/*": ["*"],
       "~/components/*": ["components/*"],
       "~/libs/*": ["libs/*"],
       "~/styles/*": ["styles/*"],
@@ -15,7 +15,9 @@
     },
     "moduleResolution": "node",
     "strict": true,
-    "checkJs": true
+    "checkJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsxImportSource": "true"
   },
   "exclude": ["node_modules", ".next"]
 }
